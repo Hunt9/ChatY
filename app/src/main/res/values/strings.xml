@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatY</string>
+    <string name="facebook_app_id">132520167249453</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
